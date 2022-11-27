@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Halil Ozkaya
-- 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning Docker, ASP.NET Core
-- 💞️ I’m looking to collaborate on Python
+- 🌱 I’m currently learning ASP.NET and MSSQL
+- 👀 I’m interested in Web Programming and Data
 - 📫 How to reach me: hi.ozkaya57@gmail.com
